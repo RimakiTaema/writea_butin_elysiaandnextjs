@@ -13,17 +13,18 @@
   $\Huge{\textsf{☕ Introduction}}$
 </p>
 
-**writea** is a blog website made with HTML and Javascript.
-Because of this, writea is completely serverless!
-Just throw it into your web server of choice and it should just work.
+**writea but in elysia & nextjs** is a blog website ported to Nextjs with elysia
+
+Now it's more maintainable but more pain to host (due to it's nextjs project so need server or deploy via cloudflare workers)
+
+Just throw it into your web server of choice and it should just work. (I guess)
 
 Writea has support for a bunch of nifty features which include (but is not limited to):\
 • Markdown formatting in blog posts.\
 • Built-in theme support.\
 • Configuration is stored in YaML files.\
 • Emoji convertion (\:sob: -> 😭).
-<p align="center"> <h1>Original By</h1> </p>
-<br/><br/>
+<p align="center"> $\Huge{\textsf{Original By}}$</p>
 <p align="center">
   © 2024-2025 Emma (prpl.wtf)
   <br/><br/><img src="https://github.com/user-attachments/assets/e6ff62c3-6d99-4e43-850d-62150706e5dd"/>
