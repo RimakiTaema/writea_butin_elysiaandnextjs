@@ -22,7 +22,7 @@ Writea has support for a bunch of nifty features which include (but is not limit
 • Built-in theme support.\
 • Configuration is stored in YaML files.\
 • Emoji convertion (\:sob: -> 😭).
-
+<p align="center"> <h1>Original By</h1> </p>
 <br/><br/>
 <p align="center">
   © 2024-2025 Emma (prpl.wtf)
