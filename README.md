@@ -2,9 +2,7 @@
 <p align="center">
   Fast and comfy open-source alternative for blogs.
   Write posts with ✏️ <b>Markdown</b>,
-  configure your blog with ⚙️ <b>YAML</b>,
-  theme your page with 🎨 <b>CSS</b>
-  and much more!
+  And More to be seen in this port
 </p>
 
 <br/><br/>
